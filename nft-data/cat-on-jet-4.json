@@ -1,0 +1,16 @@
+{
+    "name": "Cat-On-Jet Token #4",
+    "description": "A battle-hardened cat soaring through asteroid fields, dodging space debris with lightning reflexes. A true warrior of the skies.",
+    "image": "https://vovchik333.github.io/cat-on-jet/nft-data/cat-on-jet-4.webp",
+    "external_url": "https://vovchik333.github.io/cat-on-jet",
+    "attributes": [
+        {
+            "trait_type": "Artefact", 
+            "value": "CatOnJet"
+        },
+        {
+            "trait_type": "Collection", 
+            "value": "Genesis"
+        }
+    ]
+}
