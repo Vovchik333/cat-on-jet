@@ -1,0 +1,16 @@
+{
+    "name": "Cat-On-Jet Token #3",
+    "description": "A mystical cat riding a jet powered by cosmic energy, traveling beyond the limits of the known universe. A symbol of boundless curiosity.",
+    "image": "https://vovchik333.github.io/cat-on-jet/nft-data/cat-on-jet-3.webp",
+    "external_url": "https://vovchik333.github.io/cat-on-jet",
+    "attributes": [
+        {
+            "trait_type": "Artefact", 
+            "value": "CatOnJet"
+        },
+        {
+            "trait_type": "Collection", 
+            "value": "Genesis"
+        }
+    ]
+}
