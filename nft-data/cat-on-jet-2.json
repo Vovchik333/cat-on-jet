@@ -1,0 +1,16 @@
+{
+    "name": "Cat-On-Jet Token #2",
+    "description": "A cybernetic cat on a high-tech jet, dashing through neon-lit skies. This NFT embodies futuristic travel and digital evolution.",
+    "image": "https://vovchik333.github.io/cat-on-jet/nft-data/cat-on-jet-2.webp",
+    "external_url": "https://vovchik333.github.io/cat-on-jet",
+    "attributes": [
+        {
+            "trait_type": "Artefact", 
+            "value": "CatOnJet"
+        },
+        {
+            "trait_type": "Collection", 
+            "value": "Genesis"
+        }
+    ]
+}
